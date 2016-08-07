@@ -1,0 +1,5 @@
+E:\@DEV\DynamicUC\DynamicUC\bin\DynamicUC.dll
+E:\@DEV\DynamicUC\DynamicUC\bin\DynamicUC.pdb
+E:\@DEV\DynamicUC\DynamicUC\obj\Debug\ResolveAssemblyReference.cache
+E:\@DEV\DynamicUC\DynamicUC\obj\Debug\DynamicUC.dll
+E:\@DEV\DynamicUC\DynamicUC\obj\Debug\DynamicUC.pdb
